@@ -1,4 +1,4 @@
-# RCP-Average-ScraperP
+# RCP-Average-Scraper
 
 A Python scraper that extracts historical presidential approval/disapproval polling averages from [RealClearPolling](https://www.realclearpolling.com/polls/approval/donald-trump/approval-rating).
 
